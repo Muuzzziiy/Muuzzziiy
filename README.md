@@ -6,9 +6,11 @@
   <img alt="Ziyu Mu — abstract orbital linework" src="assets/header-light.svg" width="100%">
 </picture>
 
-<p><sub>Research interests</sub><br>Interpretability × AI Infrastructure</p>
+<p><sub>Research interests · Interpretability × AI Infrastructure</sub><br>From model mechanisms<br>to inference systems.</p>
 
-<p><sub>Model internals · ML systems · Research tools</sub></p>
+- **Attention & memory:** information flow through attention and KV states.
+- **Efficient inference:** KV cache management and computation reuse informed by model mechanisms.
+- **Interpretability infrastructure:** activation tracing, causal interventions, and reproducible evaluation.
 
 ## Selected work
 
