@@ -1,9 +1,11 @@
 <p><sub>RESEARCH &amp; CODE &nbsp; / &nbsp; @MUUZZZIIY</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Ziyu Mu — abstract orbital linework" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.gif">
+  <img alt="Ziyu Mu — slowly rotating orbital linework" src="assets/header-light.gif" width="100%">
 </picture>
 
 <p><sub>Research interests · Interpretability × AI Infrastructure</sub><br>From model mechanisms<br>to inference systems.</p>
