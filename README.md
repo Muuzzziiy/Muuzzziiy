@@ -8,7 +8,7 @@
   <img alt="Ziyu Mu — an orange dot follows fixed orbital paths" src="assets/header-light.gif?v=2" width="100%">
 </picture>
 
-<p><sub>Research interests · Interpretability × AI Infrastructure</sub><br>From model mechanisms<br>to inference systems.</p>
+<p><sub>Research interests · Interpretability × AI Infrastructure</sub><br>From model mechanisms to inference systems.</p>
 
 - **Attention & memory:** information flow through attention and KV states.
 - **Efficient inference:** KV cache management and computation reuse informed by model mechanisms.
