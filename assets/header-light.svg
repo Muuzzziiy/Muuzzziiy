@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ziyu Mu — abstract orbital linework">
+  <rect width="1200" height="300" fill="#f2f0e9"/>
+  <text x="56" y="208" font-family="Georgia, 'Times New Roman', serif" font-size="178" letter-spacing="-10" fill="#253c34">Ziyu Mu</text>
+  <g stroke="#344e43" fill="none" stroke-width="1.5" opacity=".8">
+    <ellipse cx="942" cy="150" rx="150" ry="91" transform="rotate(-28 942 150)"/>
+    <ellipse cx="942" cy="150" rx="150" ry="91" transform="rotate(-4 942 150)"/>
+    <ellipse cx="942" cy="150" rx="150" ry="91" transform="rotate(20 942 150)"/>
+    <ellipse cx="942" cy="150" rx="150" ry="91" transform="rotate(44 942 150)"/>
+    <ellipse cx="942" cy="150" rx="150" ry="91" transform="rotate(68 942 150)"/>
+  </g>
+  <circle cx="1041" cy="61" r="8" fill="#ba5a35"/>
+</svg>

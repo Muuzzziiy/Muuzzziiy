@@ -1,16 +1,21 @@
-## Hi there 👋
+<p><sub>RESEARCH &amp; CODE &nbsp; / &nbsp; @MUUZZZIIY</sub></p>
 
-<!--
-**Muuzzziiy/Muuzzziiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Ziyu Mu — abstract orbital linework" src="assets/header-light.svg" width="100%">
+</picture>
 
-Here are some ideas to get you started:
+<p><sub>Research interests</sub><br>Interpretability × AI Infrastructure</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><sub>Model internals · ML systems · Research tools</sub></p>
+
+## Selected work
+
+<sub>2026 &nbsp; / &nbsp; PREPRINT &amp; CODE</sub>
+
+### [Cross-Loop Query Handoff](https://github.com/Muuzzziiy/cql-handoff)
+
+How later loops redirect two-hop retrieval in Ouro looped language models. Research code and frozen experiment records.
+
+[Repository ↗](https://github.com/Muuzzziiy/cql-handoff) &nbsp;&nbsp; [Paper materials ↗](https://github.com/Muuzzziiy/cql-handoff/tree/main/paper) &nbsp;&nbsp; [Preprint notes ↗](https://github.com/Muuzzziiy/cql-handoff/blob/main/PREPRINT_NOTES.md)
