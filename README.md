@@ -22,4 +22,4 @@
 
 How later loops redirect two-hop retrieval in Ouro looped language models. Research code and frozen experiment records.
 
-[Repository ↗](https://github.com/Muuzzziiy/cql-handoff) &nbsp;&nbsp; [Paper materials ↗](https://github.com/Muuzzziiy/cql-handoff/tree/main/paper) &nbsp;&nbsp; [Preprint notes ↗](https://github.com/Muuzzziiy/cql-handoff/blob/main/PREPRINT_NOTES.md)
+[Repository ↗](https://github.com/Muuzzziiy/cql-handoff) &nbsp;&nbsp; [arXiv link ↗](https://arxiv.org/abs/2610.34639) &nbsp;&nbsp; [Preprint notes ↗](https://github.com/Muuzzziiy/cql-handoff/blob/main/PREPRINT_NOTES.md)
